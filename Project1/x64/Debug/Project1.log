@@ -1,0 +1,6 @@
+﻿E:\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  db_connection.cpp
+C:\Users\wjh\source\repos\Project1\Project1\db_connection.cpp(155,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\wjh\source\repos\Project1\Project1\db_connection.cpp(164,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\wjh\source\repos\Project1\Project1\db_connection.cpp(207): warning C4715: “queryInfo”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\wjh\source\repos\Project1\x64\Debug\Canteen_Management.exe
